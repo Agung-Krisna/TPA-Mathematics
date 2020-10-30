@@ -1,5 +1,4 @@
 /*
-I Gusti Ngurah Agung Krisna Adhitya, 2005551072; https://github.com/Agung-Krisna
 This program will become visible to the public in GitHub on October 30th 2020.
 ===================================DESC===================================
 TPA = Tools to PWN them All.
